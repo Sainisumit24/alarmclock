@@ -1,0 +1,16 @@
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.Form1.resources
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.csproj.GenerateResource.cache
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.AssemblyInfoInputs.cache
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.AssemblyInfo.cs
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.csproj.CoreCompileInputs.cache
+C:\Users\Rascal\source\repos\myalarm\myalarm\bin\Debug\net8.0-windows\myalarm.exe
+C:\Users\Rascal\source\repos\myalarm\myalarm\bin\Debug\net8.0-windows\myalarm.deps.json
+C:\Users\Rascal\source\repos\myalarm\myalarm\bin\Debug\net8.0-windows\myalarm.runtimeconfig.json
+C:\Users\Rascal\source\repos\myalarm\myalarm\bin\Debug\net8.0-windows\myalarm.dll
+C:\Users\Rascal\source\repos\myalarm\myalarm\bin\Debug\net8.0-windows\myalarm.pdb
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.dll
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\refint\myalarm.dll
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.pdb
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\myalarm.genruntimeconfig.cache
+C:\Users\Rascal\source\repos\myalarm\myalarm\obj\Debug\net8.0-windows\ref\myalarm.dll
